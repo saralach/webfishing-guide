@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebfishingGuide.props" />
+</Project>

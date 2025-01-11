@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\CSS\\fish.css",
+      "PackagePath": "staticwebassets\\CSS\\fish.css"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\CSS\\fishdetails.css",
+      "PackagePath": "staticwebassets\\CSS\\fishdetails.css"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\CSS\\home.css",
+      "PackagePath": "staticwebassets\\CSS\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\CSS\\spectralrod.css",
+      "PackagePath": "staticwebassets\\CSS\\spectralrod.css"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\CSS\\styles.css",
+      "PackagePath": "staticwebassets\\CSS\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Alligator.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Alligator.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Axolotl.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Axolotl.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Bluegill.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Bluegill.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Bowfin.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Bowfin.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Bull_Shark.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Bull_Shark.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Carp.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Carp.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Catfish.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Catfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Crab.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Crab.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Crappie.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Crappie.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Crayfish.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Crayfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Drum.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Drum.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Frog.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Frog.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Gar.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Gar.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Golden_Bass.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Golden_Bass.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Goldfish.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Goldfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Guppy.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Guppy.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\King_Salmon.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\King_Salmon.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Koi.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Koi.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Largemouth_Bass.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Largemouth_Bass.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Leech.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Leech.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Mooneye.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Mooneye.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Muskellunge.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Muskellunge.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Perch.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Perch.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Pike.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Pike.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Pupfish.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Pupfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Rainbow_Trout.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Rainbow_Trout.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Salmon.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Salmon.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Snail.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Snail.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Sturgeon.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Sturgeon.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Toad.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Toad.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Turtle.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Turtle.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Freshwater\\Walleye.png",
+      "PackagePath": "staticwebassets\\Images\\Freshwater\\Walleye.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Junk\\Bone.png",
+      "PackagePath": "staticwebassets\\Images\\Junk\\Bone.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Junk\\Branch.png",
+      "PackagePath": "staticwebassets\\Images\\Junk\\Branch.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Junk\\Diamond.png",
+      "PackagePath": "staticwebassets\\Images\\Junk\\Diamond.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Junk\\Drink_Rings.png",
+      "PackagePath": "staticwebassets\\Images\\Junk\\Drink_Rings.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Junk\\Old_Boot.png",
+      "PackagePath": "staticwebassets\\Images\\Junk\\Old_Boot.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Junk\\Plastic_Bag.png",
+      "PackagePath": "staticwebassets\\Images\\Junk\\Plastic_Bag.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Junk\\Soda_Can.png",
+      "PackagePath": "staticwebassets\\Images\\Junk\\Soda_Can.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Junk\\Weed.png",
+      "PackagePath": "staticwebassets\\Images\\Junk\\Weed.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Miscellaneous\\CREATURE.gif",
+      "PackagePath": "staticwebassets\\Images\\Miscellaneous\\CREATURE.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Miscellaneous\\Unidentified_Fish_Object.png",
+      "PackagePath": "staticwebassets\\Images\\Miscellaneous\\Unidentified_Fish_Object.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Rain\\Anomalocaris.png",
+      "PackagePath": "staticwebassets\\Images\\Rain\\Anomalocaris.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Rain\\Helicoprion.png",
+      "PackagePath": "staticwebassets\\Images\\Rain\\Helicoprion.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Rain\\Horseshoe_Crab.png",
+      "PackagePath": "staticwebassets\\Images\\Rain\\Horseshoe_Crab.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Rain\\Leedsichthys.png",
+      "PackagePath": "staticwebassets\\Images\\Rain\\Leedsichthys.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Angelfish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Angelfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Atlantic_Salmon.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Atlantic_Salmon.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Bluefish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Bluefish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Clownfish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Clownfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Coelacanth.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Coelacanth.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Dogfish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Dogfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Eel.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Eel.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Flounder.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Flounder.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Golden_Manta_Ray.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Golden_Manta_Ray.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Great_White_Shark.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Great_White_Shark.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Grouper.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Grouper.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Hammerhead_Shark.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Hammerhead_Shark.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Herring.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Herring.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Krill.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Krill.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Lionfish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Lionfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Lobster.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Lobster.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Man_O_War.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Man_O_War.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Manta_Ray.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Manta_Ray.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Marlin.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Marlin.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Octopus.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Octopus.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Oyster.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Oyster.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Sawfish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Sawfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Sea_Turtle.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Sea_Turtle.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Seahorse.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Seahorse.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Shrimp.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Shrimp.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Squid.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Squid.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Sting_Ray.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Sting_Ray.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Sunfish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Sunfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Swordfish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Swordfish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Tuna.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Tuna.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Whale.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Whale.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\Saltwater\\Wolffish.png",
+      "PackagePath": "staticwebassets\\Images\\Saltwater\\Wolffish.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-bones-map.jpg",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-bones-map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-femur-location.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-femur-location.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-femur.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-femur.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-hand-location.mp4",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-hand-location.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-humerus-location.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-humerus-location.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-humerus.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-humerus.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-rib-location.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-rib-location.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-rib.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-rib.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-rod.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-rod.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-skull-location.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-skull-location.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-skull.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-skull.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-spine-location.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-spine-location.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\SpectralRod\\spectral-spine.png",
+      "PackagePath": "staticwebassets\\Images\\SpectralRod\\spectral-spine.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\site-logo-small.png",
+      "PackagePath": "staticwebassets\\Images\\site-logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\site-logo-xs.png",
+      "PackagePath": "staticwebassets\\Images\\site-logo-xs.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\Images\\site_logo.png",
+      "PackagePath": "staticwebassets\\Images\\site_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\fish.html",
+      "PackagePath": "staticwebassets\\fish.html"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\fish.js",
+      "PackagePath": "staticwebassets\\fish.js"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\fishdetails.html",
+      "PackagePath": "staticwebassets\\fishdetails.html"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\fishdetails.js",
+      "PackagePath": "staticwebassets\\fishdetails.js"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\fishicon.ico",
+      "PackagePath": "staticwebassets\\fishicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\jqtabs.js",
+      "PackagePath": "staticwebassets\\jqtabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\processemaillist.js",
+      "PackagePath": "staticwebassets\\processemaillist.js"
+    },
+    {
+      "Id": "C:\\Users\\Sara\\OneDrive - Carroll University\\Personal Projects\\WebfishingGuide\\wwwroot\\spectralrod.html",
+      "PackagePath": "staticwebassets\\spectralrod.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebfishingGuide.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebfishingGuide.props",
+      "PackagePath": "build\\WebfishingGuide.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebfishingGuide.props",
+      "PackagePath": "buildMultiTargeting\\WebfishingGuide.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebfishingGuide.props",
+      "PackagePath": "buildTransitive\\WebfishingGuide.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
