@@ -1,0 +1,51 @@
+div.fishbuttons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.25rem;
+
+    padding-block-end: .5rem;
+
+    a {
+        /* ======== CSS grid ======== */
+        display: grid;
+        grid-template-rows: repeat(2, auto);
+        grid-template-columns: 1fr;
+        justify-items: center;
+        align-items: center;
+        text-decoration: none;
+        text-align: center;
+        color: var(--dkgrey);
+
+        padding-block-end: .5rem;
+        width: 10rem;
+        background-color: var(--paletan);
+
+        border-width: 2px;
+        border-style: solid;
+        border-color: var(--paletan2);
+        border-radius: 2cqb;
+
+        &:hover {
+            background-color: var(--ltgreen);
+            border-color: var(--mdgreen);
+        }
+
+        img {
+            padding-inline: .25rem;
+        }
+    }
+}
+
+/* ======================= MEDIA QUERIES ======================= */
+@media screen and (max-width: 575px) { /* x-small screens */
+    div.fishbuttons {
+        gap: .75rem;
+        a {
+            width: 8.5rem;
+        }
+
+    }
+}
+

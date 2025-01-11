@@ -1,0 +1,75 @@
+video#handvideo {
+    width: min(80%, 800px);
+}
+
+article img {
+    padding-inline: 3vw;
+}
+
+#tabs {
+    margin-block: .75rem;
+}
+
+/* =========================== TABS ============================ */
+.ui-tabs { /* outer container */
+    background-color: var(--dkcream);
+    font-family: "Poppins", sans-serif;
+}
+
+.ui-tabs .ui-tabs-nav li { 
+    /* remove tab background color */
+    background-color: inherit;
+}
+
+.ui-widget.ui-widget-content {
+    border: 2px solid var(--paletan); 
+    border-radius: 1vh;
+}
+
+.ui-tabs-nav { /* list of tabs */
+    background-color: inherit;
+    border: none;
+    border-bottom: 1px solid var(--paletan2);
+    border-radius: 0px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-tab { /* single tab */
+    border: none;
+    font-weight: 500;
+    color: var(--dkgrey);
+
+    &:hover {
+        font-weight: 600;
+    }
+}
+
+.ui-tabs-active a.ui-tabs-anchor { /* active tab */
+    color: var(--ltgreen);
+    border-bottom: 3px solid var(--ltgreen);
+    font-weight: 600;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.ui-tabs article.ui-tabs-panel { /* article/content */
+    padding-inline: 1rem;
+}
+
+/* ======================= MEDIA QUERIES ======================= */
+@media screen and (max-width: 991px) { /* medium and smaller */
+    .ui-tabs .ui-tabs-nav li.ui-tabs-tab a.ui-tabs-anchor {
+        padding-inline: .35rem;
+    }
+}
+
+@media screen and (max-width: 575px) { /* x-small */
+    video#handvideo {
+        width: 100%;
+        padding-inline: .75rem;
+    }
+
+    .ui-tabs-nav {
+        font-size: .9rem;
+    }
+}

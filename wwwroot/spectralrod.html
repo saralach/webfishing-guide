@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="fishicon.ico">
+    <title>Spectral Rod | Webfishing Guide</title>
+
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- BootStrap (for navbar) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <!-- JQuery (for tabs) -->
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.14.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://code.jquery.com/ui/1.14.1/jquery-ui.js"></script>
+    <script src="jqtabs.js" ></script>
+
+    <!-- External Styles, External JS, Icon -->
+    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="stylesheet" href="CSS/spectralrod.css">
+    <link rel="icon" href="fishicon.ico">
+    <script src="fishdetails.js">
+    </script>
+</head>
+<body>
+    <!-- NAVBAR -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous">
+    </script>
+    <nav id="navbar" class="navbar navbar-expand-md  px-4 py-1">
+        <div class="container-fluid">
+
+            <!-- Main logo / home page link -->
+            <a class="navbar-brand pt-2" href="index.html">
+                <img id="logopic" src="Images/site-logo-small.png" alt="Webfishing Guide Logo">
+            </a>
+
+            <!-- Hamburger button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#sitelinks">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Links -->
+            <div id="sitelinks" class="collapse navbar-collapse">
+                <ul class="navbar-nav ps-3">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link activepage" href="fish.html">Fish</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="spectralrod.html">Spectral Rod</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+
+    <!-- PAGE CONTENT -->
+    <main>
+        <section id="rodintro">
+            <h1>Spectral Rod</h1>
+            <p>
+                The Spectral Rod is a purely cosmetic item that can be unlocked by collecting the five different Spectral Bones that are scattered around the island. After collecting each of the Spectral Bones, players can purchase the Spectral Rod from the Spectral Hand for $500.
+            </p>
+        </section>
+
+        <section id="spectralbones">
+            <h2>Spectral Bone Locations</h2>
+
+            <!--<p>Having trouble finding the spectral bones? Click a tab below for the bone's location!</p>-->
+            <div id="tabs">
+                <ul id="tabsul">
+                    <li><a href="#humerus">Humerus</a></li>
+                    <li><a href="#spine">Spine</a></li>
+                    <li><a href="#femur">Femur</a></li>
+                    <li><a href="#skull">Skull</a></li>
+                    <li><a href="#rib">Rib</a></li>
+                </ul>
+
+                <article id="humerus">
+                    <h3>Spectral Humerus</h3>
+                    <p>
+                        The Spectral Humerus can be found behind a bush at the far corner of the map beyond the lighthouse.
+                    </p>
+                    <img src="Images/SpectralRod/spectral-humerus-location.png" alt="Spectral Humerus location"/>
+                </article>
+
+                <article id="spine">
+                    <h3>Spectral Spine</h3>
+                    <p>
+                        The Spectral Spine is on a rock in the ocean just beyond the shore. You can jump down to this rock from the cliff where the humerous was found.
+                    </p>
+                    <img src="Images/SpectralRod/spectral-spine-location.png" alt="Spectral Spine location"/>
+                </article>
+
+                <article id="femur">
+                    <h3>Spectral Femur</h3>
+                    <p>
+                        The Spectral Femur is in the corner of the map farthest from the ocean and the lighthouse and can be found next to a pond behind a bush.
+                    </p>
+                    <img src="Images/SpectralRod/spectral-femur-location.png" alt="Spectral Femur location"/>
+                </article>
+
+                <article id="skull">
+                    <h3>Spectral Skull</h3>
+                    <p>
+                        The Spectral Skull can be found on a cliff just beyond the dock shop.
+                    </p>
+                    <img src="Images/SpectralRod/spectral-skull-location.png" alt="Spectral Skull location"/>
+                </article>
+
+                <article id="rib">
+                    <h3>Spectral Rib</h3>
+                    <p>
+                        The Spectral Rib is located on a cliff in front of the dock shop. You can get there using the blue bouncy mushrooms nearby.
+                    </p>
+                    <img src="Images/SpectralRod/spectral-rib-location.png" alt="Spectral Rib location"/>
+                </article>
+            </div>
+        </section>
+
+        <section id="spectralhand">
+            <h2>Spectral Hand Location</h2>
+            <p>
+                You can purchase the Spectral Rod from the Spectral Hand, which can be found under the waterfall on the river near spawn.
+            </p>
+            <video id="handvideo" controls playsinline="true">
+                <source src="Images/SpectralRod/spectral-hand-location.mp4" />
+            </video>
+        </section>
+
+    </main>
+
+</body>
+</html>

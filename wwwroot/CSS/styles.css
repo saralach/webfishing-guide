@@ -1,0 +1,145 @@
+:root { /*using root pseudoclass allows all elements to inherit the vars*/
+    --cream: #f7f4ee;
+    --dkcream: #f3ece2;
+    --paletan: #ebe4d9;
+    --paletan2: #d8cdbc;
+    --tan: #f5e4cc;
+    --sand: #ce9b5a;
+    --ltbrown: #ae7434;
+    --mdbrown: #6f3719;
+    --dkbrown: #481e0e;
+    --mutedbrown: #463b34;
+    --teal: #61ae8b;
+    --palergreen: #e2e6d7;
+    --palegreen: #c8cfb4;
+    --ltgreen: #9aa86b;
+    --mdgreen: #88945f;
+    --dkgreen: #445a37;
+    --bluegray: #565a68;
+    --mdgrey: #5f6063;
+    --dkgrey: #202124;
+}
+
+body {
+    /*font-size: 1.1rem;*/
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--dkgrey);
+    background-color: var(--cream);
+    margin: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 1.9rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+p > a {
+    color: var(--dkgrey);
+    font-weight: 600;
+    text-decoration: none;
+    &:hover {
+        color: var(--mdgreen);
+    }
+}
+
+nav + * { /* first element after header */
+    padding-block-start: 2rem;
+}
+
+main {
+    margin-inline: max(5vw, 1.75rem);
+}
+
+section {
+    padding-block-end: .75rem;
+    
+    &:not(section:first-child) { /* section divider lines */
+        padding-block-start: 1.5rem;
+        border-block-start: 2px solid var(--paletan);
+    }
+}
+
+.buttonlook {
+    text-decoration: none;
+    padding: .5rem 1.25rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: var(--dkgreen);
+    color: var(--cream);
+    font-weight: 500;
+
+    &:hover {
+        background-color: var(--ltgreen);
+    }
+}
+
+
+#navbar {
+    background-color: var(--dkgreen);
+    box-shadow: 0 0.5rem 1rem rgba(116, 93, 71, 0.2);
+    letter-spacing: 1.25px;
+
+    #logopic {
+        width: min(50vw, 264px); /*264px = width of image*/
+    }
+
+    button {
+        border-color: var(--cream);
+        span {
+            color: var(--cream);
+        }
+    }
+    
+    #sitelinks {
+        flex-grow: unset;
+        li {
+            padding-inline: 1vw;
+            a {
+                font-weight: 500;
+                font-size: 1.1rem;
+                color: var(--cream);
+            }
+        }
+    }
+}
+
+
+/* ======================= MEDIA QUERIES ======================= */
+@media screen and (max-width: 575px) {
+    nav + * {
+        padding-block-start: 1.5rem;
+    }
+    h1 {
+        font-size: 1.7rem;
+    }
+    h2 {
+        font-size: 1.5rem;
+    }
+    h3 {
+        font-size: 1.3rem;
+    }
+
+}

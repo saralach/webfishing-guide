@@ -1,0 +1,78 @@
+#details {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 0px;
+
+    #fishpic {
+        grid-column: 1 / span 12;
+        justify-self: center;
+        border: 2px var(--paletan2) solid;
+        background-color: var(--paletan);
+        margin-block-end: 1rem;
+    }
+
+    #desc {
+        grid-column: 1 / span 12;
+    }
+
+    h5 {
+        grid-column: 1 / span 12;
+    }
+
+    h6:nth-of-type(odd), p:nth-of-type(even) { /* zebra striping for mobile devices */
+        background-color: var(--paletan);
+    }
+
+    h6, p:not(#desc) {
+        margin: 0;
+        padding: 0.25rem;
+    }
+
+    h6 {
+        grid-column: 1 / span 6;
+    }
+
+    p {
+        grid-column: 7 / span 6;
+    }
+
+    /* ======================= MEDIA QUERIES ======================= */
+    @media screen and (min-width:768px) { /* medium & larger screens */
+        h6.label, p.rate {
+            border-inline-start: 2px solid var(--paletan2);
+        }
+        h6:nth-last-of-type(1), p:nth-last-of-type(1) {
+            border-inline-end: 2px solid var(--paletan2);
+        }
+        h6.label {
+            background-color: var(--paletan);
+            border-block-start: 2px solid var(--paletan2);
+        }
+        p.rate {
+            background-color: var(--cream);
+            border-block-end: 2px solid var(--paletan2);
+        }
+        .rate {
+            grid-row: 5 / span 1;
+        }
+        .base {
+            grid-column: 1 / span 2;
+        }
+        .sparkling {
+            grid-column: 3 / span 2;
+        }
+        .fly {
+            grid-column: 5 / span 2;
+        }
+        .large {
+            grid-column: 7 / span 2;
+        }
+        .magnet {
+            grid-column: 9 / span 2;
+        }
+        .golden {
+            grid-column: 11 / span 2;
+        }
+    }
+}

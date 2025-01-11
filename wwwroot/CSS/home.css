@@ -1,0 +1,51 @@
+form {
+    margin-bottom: .75rem;
+}
+
+form > * {
+    display: block;
+
+    &:not( label:has(input[type='checkbox']) ) { /*add to all immediate children of form except the checkbox labels*/
+        margin-top: .75rem;
+    }
+}
+
+input:focus {
+    outline-color: var(--ltgreen);
+}
+
+input:checked {
+    accent-color: var(--dkgreen);
+}
+
+label:has(input[type='checkbox']) {
+    color: var(--mdgrey);
+}
+
+label:has(input:checked) {
+    font-weight: 500;
+    color: var(--dkgrey);
+}
+
+#formdata {
+    background-color: var(--palegreen);
+    padding-inline: 1rem;
+    padding-block: .25rem;
+    display: none;
+
+    ul {
+        margin-bottom: 0;
+    }
+}
+
+.txtbold {
+    font-weight: 700;
+}
+
+/* ======================= MEDIA QUERIES ======================= */
+@media screen and (max-width: 575px) {
+    input[type='email'], input[type='text']  {
+        display: block;
+        width: 80%;
+    }
+}
